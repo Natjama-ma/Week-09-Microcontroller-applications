@@ -1,0 +1,24 @@
+# .gitignore for lab09-01
+/build/
+*.log
+sdkconfig.old
+sdkconfig
+*.bin
+*.elf
+*.map
+*.pyc
+*.pyo
+__pycache__/
+*.env
+*.user
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.orig
+*.rej
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
